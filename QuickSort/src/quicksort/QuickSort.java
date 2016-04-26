@@ -1,21 +1,10 @@
 package quicksort;
-
 import java.util.Arrays;
-
-
-
 /**
  *
  * @author michalsynowiec
  */
 public class QuickSort {
-    
-    /**
-     *
-     * @param a
-     *  
-     */
-    
     
     private int array[];
     private int length;
