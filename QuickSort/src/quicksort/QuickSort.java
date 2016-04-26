@@ -75,7 +75,7 @@ public class QuickSort {
         //printing sorted array in for loop
         for(int i:arrayUnsorted){
             System.out.print(i);
-            System.out.print("[,]");
+            System.out.print(",");
         }
 
     }
